@@ -1,0 +1,13 @@
+.container{
+    margin: 50px 0;
+    
+}
+.card{
+    margin: 0 2% !important;
+    padding: 50px 0;
+}
+
+.infected{
+    background-color: rgba(255, 0, 0, 0.3);
+}
+
